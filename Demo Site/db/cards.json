@@ -1,0 +1,48 @@
+[
+		{
+		"id": 1,
+		"images": "./card/imgs/FB_IMG_1611660422353-removebg-preview.png",
+		"description": "Cel mai smecher pc 1",
+		"rating": 5,
+		"reviews": 2,
+		"stock": 4,
+		"price": 4000,
+		"views": 3,
+		"dataPost": "09/02/2021",
+		"MostPopular": 2
+
+	},
+	{
+		"id": 2,
+		"images": "./card/imgs/FB_IMG_1611660422353-removebg-preview.png",
+		"description": "Cel mai smecher pc 2",
+		"rating": 3,
+		"reviews": 6,
+		"stock": 3,
+		"price": 1000,
+		"views": 5,
+		"dataPost": "09/05/2021"
+	},
+	{
+		"id": 3,
+		"images": "./card/imgs/FB_IMG_1611660422353-removebg-preview.png",
+		"description": "Cel mai smecher pc 3",
+		"rating": 4,
+		"reviews": 12,
+		"stock": 8,
+		"price": 500,
+		"views": 7,
+		"dataPost": "09/09/2021"
+	},
+	{
+		"id": 4,
+		"images": "./card/imgs/FB_IMG_1611660422353-removebg-preview.png",
+		"description": "Cel mai smecher pc 4",
+		"rating": 2,
+		"reviews": 3,
+		"stock": 2,
+		"price": 5000,
+		"views": 23,
+		"dataPost": "09/01/2021"
+	}
+]

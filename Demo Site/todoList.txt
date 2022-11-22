@@ -1,0 +1,12 @@
+portofoliu/
+├─ style/
+│  ├─ images/
+│  ├─ style.css
+├─ JavaScript/
+├─ index.html
+
+
+
+1. ORDER BY BUTTON:
+- desigin
+- working 

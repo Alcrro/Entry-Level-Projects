@@ -1,0 +1,39 @@
+[
+		{
+			"id": 1,
+			"description": "Laptop Bags",
+			"quantity": 290
+		},
+		{
+			"id": 2,
+			"description": "Docking stations",
+			"quantity": 120
+		},
+		{
+			"id": 3,
+			"description": "Hard disk notebook",
+			"quantity": 450
+		},
+		{
+			"id": 4,
+			"description": "Memory notebook",
+			"quantity": 156
+		},
+		{
+			"id": 5,
+			"description": "Laptop Battery",
+			"quantity": 180
+		},
+		{
+			"id": 6,
+			"description": "Another Accessory",
+			"quantity": 1456
+		}
+		,
+		{
+			"id": 7,
+			"description": "Display Laptop",
+			"quantity": 2378
+		}
+
+	]
