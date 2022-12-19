@@ -7,7 +7,7 @@ function loadMultiDataCards() {
   const xhr = new XMLHttpRequest();
 
   //open
-  xhr.open('GET', '/db/cards.json', true);
+  xhr.open('GET', './db/cards.json', true);
 
   xhr.onload = function () {
     if (this.status === 200) {

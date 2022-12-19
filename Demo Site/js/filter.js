@@ -5,7 +5,7 @@ function loadSingleData() {
   const xhr = new XMLHttpRequest();
 
   //open
-  xhr.open('GET', '/db/filter.json', true);
+  xhr.open('GET', './db/filter.json', true);
 
   xhr.onload = function () {
     if (this.status === 200) {
